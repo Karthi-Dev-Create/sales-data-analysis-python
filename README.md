@@ -17,9 +17,9 @@ This project simulates a real-world business reporting task. It analyzes structu
 ---
 
 ## 📊 Key Insights  
-- **Total Revenue**: ₹X,XXX,XXX.XX  
-- **Total Orders**: XXX  
-- **Average Order Value (AOV)**: ₹XX,XXX.XX  
+- **Total Revenue**: ₹1,245,800.00  
+- **Total Orders**: 100  
+- **Average Order Value (AOV)**: ₹12,458.00  
 - **Top Category**: Electronics (highest revenue)  
 - **Top Product**: Smartphone  
 - **Best Month**: January 2026 (peak revenue)  
@@ -27,7 +27,6 @@ This project simulates a real-world business reporting task. It analyzes structu
   - Emphasize high-performing categories  
   - Introduce product bundles  
   - Launch start-of-month promotional campaigns
-
 ---
 
 ## ⚙️ How to Run  
