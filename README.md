@@ -43,7 +43,7 @@ This project simulates a real-world business reporting task. It analyzes structu
 ---
 
 ## 🔗 Google Colab Notebook  
-[Open in Google Colab](https://colab.research.google.com/drive/1AfCNoqZMQaTfEV4ensqBCngwseaA74eE?usp=sharing)  
+  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AfCNoqZMQaTfEV4ensqBCngwseaA74eE?usp=sharing)
 
 ---
